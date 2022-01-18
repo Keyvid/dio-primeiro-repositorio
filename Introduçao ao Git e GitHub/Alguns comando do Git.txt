@@ -1,0 +1,5 @@
+Alguns dos comando básicos no Git
+- git status
+- git add (.) / (-A)
+- git commit -M " "
+- git push origin main
